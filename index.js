@@ -6,7 +6,7 @@ require("dotenv").config();
 
 // Allow only your frontend domain
 const corsOptions = {
-  origin: "https://vtphone.onrender.com", // Replace with your frontend's URL
+  origin: "https://ly-lash-brow.onrender.com", // Replace with your frontend's URL
   methods: "GET,POST,PUT,DELETE",
   allowedHeaders: "Content-Type,Authorization",
 };
